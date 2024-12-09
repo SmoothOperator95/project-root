@@ -1,7 +1,7 @@
 # tests/test_ice_storm.py
 
 import unittest
-from api.ice_storm import IceStorm
+from api.ice_cream import IceStorm
 
 class TestIceStorm(unittest.TestCase):
 
